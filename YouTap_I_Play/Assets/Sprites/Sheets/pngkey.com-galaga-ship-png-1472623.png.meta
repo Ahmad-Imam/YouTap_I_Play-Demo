@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 283c179db8535404cb12d5afc9f74dcb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pngkey.com-galaga-ship-png-1472623_0
+    21300002: pngkey.com-galaga-ship-png-1472623_1
+    21300004: pngkey.com-galaga-ship-png-1472623_2
+    21300006: pngkey.com-galaga-ship-png-1472623_3
+    21300008: pngkey.com-galaga-ship-png-1472623_4
+    21300010: pngkey.com-galaga-ship-png-1472623_5
+    21300012: pngkey.com-galaga-ship-png-1472623_6
+    21300014: pngkey.com-galaga-ship-png-1472623_7
+    21300016: pngkey.com-galaga-ship-png-1472623_8
+    21300018: pngkey.com-galaga-ship-png-1472623_9
+    21300020: pngkey.com-galaga-ship-png-1472623_10
+    21300022: pngkey.com-galaga-ship-png-1472623_11
+    21300024: pngkey.com-galaga-ship-png-1472623_12
+    21300026: pngkey.com-galaga-ship-png-1472623_13
+    21300028: pngkey.com-galaga-ship-png-1472623_14
+    21300030: pngkey.com-galaga-ship-png-1472623_15
+    21300032: pngkey.com-galaga-ship-png-1472623_16
+    21300034: pngkey.com-galaga-ship-png-1472623_17
+    21300036: pngkey.com-galaga-ship-png-1472623_18
+    21300038: pngkey.com-galaga-ship-png-1472623_19
+    21300040: pngkey.com-galaga-ship-png-1472623_20
+    21300042: pngkey.com-galaga-ship-png-1472623_21
+    21300044: pngkey.com-galaga-ship-png-1472623_22
+    21300046: pngkey.com-galaga-ship-png-1472623_23
+    21300048: pngkey.com-galaga-ship-png-1472623_24
+    21300050: pngkey.com-galaga-ship-png-1472623_25
+    21300052: pngkey.com-galaga-ship-png-1472623_26
+    21300054: pngkey.com-galaga-ship-png-1472623_27
+    21300056: pngkey.com-galaga-ship-png-1472623_28
+    21300058: pngkey.com-galaga-ship-png-1472623_29
+    21300060: pngkey.com-galaga-ship-png-1472623_30
+    21300062: pngkey.com-galaga-ship-png-1472623_31
+    21300064: pngkey.com-galaga-ship-png-1472623_32
+    21300066: pngkey.com-galaga-ship-png-1472623_33
+    21300068: pngkey.com-galaga-ship-png-1472623_34
+    21300070: pngkey.com-galaga-ship-png-1472623_35
+    21300072: pngkey.com-galaga-ship-png-1472623_36
+    21300074: pngkey.com-galaga-ship-png-1472623_37
+    21300076: pngkey.com-galaga-ship-png-1472623_38
+    21300078: pngkey.com-galaga-ship-png-1472623_39
+    21300080: pngkey.com-galaga-ship-png-1472623_40
+    21300082: pngkey.com-galaga-ship-png-1472623_41
+    21300084: pngkey.com-galaga-ship-png-1472623_42
+    21300086: pngkey.com-galaga-ship-png-1472623_43
+    21300088: pngkey.com-galaga-ship-png-1472623_44
+    21300090: pngkey.com-galaga-ship-png-1472623_45
+    21300092: pngkey.com-galaga-ship-png-1472623_46
+    21300094: pngkey.com-galaga-ship-png-1472623_47
+    21300096: pngkey.com-galaga-ship-png-1472623_48
+    21300098: pngkey.com-galaga-ship-png-1472623_49
+    21300100: pngkey.com-galaga-ship-png-1472623_50
+    21300102: pngkey.com-galaga-ship-png-1472623_51
+    21300104: pngkey.com-galaga-ship-png-1472623_52
+    21300106: pngkey.com-galaga-ship-png-1472623_53
+    21300108: pngkey.com-galaga-ship-png-1472623_54
+    21300110: pngkey.com-galaga-ship-png-1472623_55
+    21300112: pngkey.com-galaga-ship-png-1472623_56
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a2dbf1d4f6624c899c90721ffa7fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96534e350c96eba4bab67e27b88770b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c01dbf8d499442ab9f91d15aeecd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 343
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763be935fbad2d4096b72c92a5aea8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 310
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb9a577cc34864fac56a9429683bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 283
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937fb15a837b83f44976571fe4a05343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 339
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee850b95f3e6908469a28eeaa40c4c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 299
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0f4681a97c6948a0c32ca87d4184e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 289
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3888387fef1454448e636540a072e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 331
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b46ec0b1c35ee47afb1f3e157e5ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 325
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7997d2cc51784c9dac94d0ec3992e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 292
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84f5b526fe8ca43bcbdc74f8423218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 310
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6745cbcc301548a9bfbab9f39e431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 295
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8935372dcfc74a93e0530f95fb0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 289
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8c7ba1cad32df469ee5f73d328e575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 286
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574c97da99ea0c41a98823814d6156f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 292
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e201ebb7ff8a4bae1fa4c7057fd7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237ef2a66162f84386783b97eb5a4e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c48df81e81496945825a3bcf5de2c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278b4ce5e072d842af32ec4026c4452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 189
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e48577c2627b4599691d650f1328e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 197
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4026c5b7080ba4f865ba2f51ffe71e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 206
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ce54022bc21f46bde2732dfa38431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7642e549355c94ab75b4084bdef300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 210
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d131bb0eba5f1408d40b20733535d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 199
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ac70ee2d7f014cb13966263eb86b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 210
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abb5a2abbfa4843b0620d0bf24d030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 217
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bfab1a6099c8541a707b2f866910d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 210
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604388309ecb6d74382c010960393ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1403e6325b6145beb2f8c9327195e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341107247d030341b0cf80507cddcd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13741fd33d102546890eb486b7920c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215f015d35a3ef49917ee4dbc29df0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 139
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af6a34e3a7aef4db8c5fca67f2764b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 89
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d094afb3ecdf40bba527065d21194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e767b55c374941887f4dcfe5bbd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee67d4eee690744bd3f1402f06f4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a627fe48156b647a1e45850c5c4f55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a4e9a2654814147aea56a710bb14ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a70e0b923be047a91ea7b634b7eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424267d48ce615448b4f1e327cb7b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d741b8436fc087c46837a9b656007f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ba1bc91a4abbe41ad1d879159c4f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 26
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b631b34142707d449c1b04570e130ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 36
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533e5db0294fd04dab4496e80389fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 42
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe6dc72eb7493459027bd222036db9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_46
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e297988a6edf4dbbcaa920637c9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c30150c6c9bc48be741d2c28b84db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_48
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 11
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe79d059f6ff6a4da5ef4bfcbd15c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_49
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e605cf144c085443a77b5bc96155b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_50
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f809b6fa36a549accccd9bb06e73a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_51
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27dce8feb001a34892893e025349960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0f8ba91f13fe4ab3ed44b2813c3a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db93cfe25f526e4dafc17dd3db62f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_54
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb00f32975524e459b94dc17c20c59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_55
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0d9c0a4d51be419dfba5f78080d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-ship-png-1472623_56
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a253ca69d626c54a8e3d1aa1cca4ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0123cb13c1eb2434084da6dbbdf5089b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
